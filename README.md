@@ -56,7 +56,7 @@ This project is perfect for beginners who want to learn basic sensor input and o
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_Flame_Sensor_Buzzer.ino)
+[Download Arduino Code](Arduino_Flame_Sensor_with_Buzzer_Alert.ino)
 
 Or open the `.ino` file directly inside this repository.
 
